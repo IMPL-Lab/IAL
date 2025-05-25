@@ -1,4 +1,6 @@
-![logo](assets/IAL-Logo.png)
+<p align="center">
+<img src="assets/IAL-Logo.png" width="200"/>
+<p>
 
 # How Do Images Align and Complement LiDAR? Towards a Harmonized Multi-modal 3D Panoptic Segmentation
 *Accepted at ICML 2025*
