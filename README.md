@@ -1,3 +1,4 @@
+![Framework Diagram](assets/IAL logo.jpg)
 # How Do Images Align and Complement LiDAR? Towards a Harmonized Multi-modal 3D Panoptic Segmentation
 *Accepted at ICML 2025*
 
