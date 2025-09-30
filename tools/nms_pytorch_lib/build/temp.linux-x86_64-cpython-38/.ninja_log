@@ -1,0 +1,7 @@
+# ninja log v5
+0	11220	1725680452421772335	/mnt/data/data/yining/codefield/3dmmpano_240109/pytorch_lib/build/temp.linux-x86_64-cpython-38/src/pt_lib_cuda.o	c30af580041ba7c0
+0	19213	1725680460417669871	/mnt/data/data/yining/codefield/3dmmpano_240109/pytorch_lib/build/temp.linux-x86_64-cpython-38/src/pt_lib_cuda_kernel.o	f80d6341db6174
+11	11536	1728751023425419939	/mnt/data/data/yining/codefield/3dmmpano_240109/tools/pytorch_lib/build/temp.linux-x86_64-cpython-38/src/pt_lib_cuda.o	712c99c1912d222d
+11	19435	1728751031333200059	/mnt/data/data/yining/codefield/3dmmpano_240109/tools/pytorch_lib/build/temp.linux-x86_64-cpython-38/src/pt_lib_cuda_kernel.o	9130b3e1002650f6
+0	11147	1756365094540044249	/mnt/data/data/yining/codefield/3dmmpano_submit/tools/nms_pytorch_lib/build/temp.linux-x86_64-cpython-38/src/pt_lib_cuda.o	9a6f1615308fa977
+0	19298	1756365102695871174	/mnt/data/data/yining/codefield/3dmmpano_submit/tools/nms_pytorch_lib/build/temp.linux-x86_64-cpython-38/src/pt_lib_cuda_kernel.o	dd09cc31e8d4a9d2

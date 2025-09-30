@@ -1,0 +1,9 @@
+{"meta": {
+    "task":   "segmentation",
+    "use_camera":   true,
+    "use_lidar":    true,
+    "use_radar":   false,
+    "use_map":      false,
+    "use_external": false
+}
+}
