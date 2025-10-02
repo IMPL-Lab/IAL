@@ -27,6 +27,7 @@ mmdet == 3.0.0 \
 mmdet3d == 1.1.0 \
 torch-scatter == 2.0.9 \
 [nms_lib](https://github.com/GangZhang842/CFNet/tree/master/pytorch_lib)
+
 *Please see install.sh for more details.
 
 ### Data Structure
@@ -61,7 +62,7 @@ pip install -e .
 3-infer-gsam.sh
 ```
 
-*Checkpoints and 2D preprocessing data are available [here](https://huggingface.co/SigridPan/IAL).
+*Checkpoints and 2D preprocessing data are available [huggingface](https://huggingface.co/SigridPan/IAL) and [OneDrive](https://sutdapac-my.sharepoint.com/:f:/g/personal/yining_pan_mymail_sutd_edu_sg/EqNd3WZfzzROtNysty3NgrYBUX1LpfWvYt-ra0nTHGB5gQ?e=OoqV6P).
 
 ## Train & Inference
 ```bash
